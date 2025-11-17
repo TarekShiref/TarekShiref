@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋 I'm Tarek!
 
-<!--
-**TarekShiref/TarekShiref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer excited about building cross-platform apps and learning how the web works. I'm currently focused on expanding my skills and turning new ideas into code!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning & Exploring
+
+Here are the key technologies I'm focused on right now:
+
+* **Flutter & Dart:** Deep diving into creating beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+* **Swift:** Exploring native iOS development and the Apple ecosystem.
+
+## 🚀 My Goals
+
+I'm focused on projects that help me solidify these core concepts:
+
+* Learning by Building Efficiently: I am actively applying my beginner skills in Flutter/Dart, HTML, and Swift
+  with a strong focus on optimizing performance, minimizing resource usage, and writing clean, lightweight code.
+* Understanding the core architecture differences between Dart and Swift.
+
+## 🤝 Let's Connect!
+
+I'm always open to connecting with other developers, finding study partners, and discussing new projects!
+
+| Platform | Link |
+| **GitHub** | **You're here!** Check out my recent commits and learning projects. |
+| **Email** | tarekshiref1@gmail.com |
